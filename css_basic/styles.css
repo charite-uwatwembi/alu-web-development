@@ -1,0 +1,30 @@
+body,main{
+    display: flex;
+    border: 1px solid rgba(0, 0, 0, 0.062);
+}
+body{
+    flex-direction: column;
+}
+main{
+    flex-direction: row;
+    flex: auto;
+}
+article{
+    flex: 2;
+    overflow-y: auto
+}
+aside{
+    flex: 1;
+    overflow-y: auto
+}
+body{
+    margin-top: 20px;
+}
+header{
+    background-color: #eee;
+    padding-top: 50px;
+    padding-left: 10px;
+}
+article h1{
+    color: tomato;
+}
