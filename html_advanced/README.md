@@ -13,4 +13,3 @@ Important notes with Figma:
 
  >if your computer doesn’t have missing fonts, you can find them here: source-sans-pro and Spin-Cycle-OT
  >some values are in float - feel free to round them
- 
