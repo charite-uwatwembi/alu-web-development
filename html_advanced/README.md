@@ -7,7 +7,7 @@ This designer file will be available on Figma - feel free to create an account t
 Page in Figma
 fig file
 And “Duplicate to your Drafts” to have access to all design details.
-![](../Homepage.fig)
+![](../figma.png)
 
 Important notes with Figma:
 
